@@ -9,7 +9,7 @@ permissions:
   contents: read
   pull-requests: read
 
-engine: claude
+engine: copilot
 
 tools:
   edit:
